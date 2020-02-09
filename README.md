@@ -4,7 +4,7 @@ A financial simulation Android app that challenges users to make difficult decis
 
 Inspiration:
 
-We wanted to make an app so that it is easily accessible to our audience, young adults who can learn the basics of financial education while balancing the other aspects of their life in simulated real life situations. Players are assigned a character from a random background (i.e. a business woman with 3 kids who lives in NYC, a retired lady with medical bills for her arthritis, etc). You are asked questions in a quiz-like format and must make decisions as that person with their given restrictions.
+We wanted to make an app so that it is easily accessible to our audience: young adults who can learn the basics of financial education while balancing the other aspects of their life in simulated real life situations. Players are assigned a character from a random background (i.e. a business woman with 3 kids who lives in NYC, a retired lady with medical bills for her arthritis, etc). You are asked questions in a quiz-like format and must make decisions as that person with their given restrictions.
 
 What it does:
 
